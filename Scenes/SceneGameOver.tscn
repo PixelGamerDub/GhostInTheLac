@@ -1,0 +1,81 @@
+[gd_scene load_steps=7 format=2]
+
+[ext_resource path="res://Sprites/menu/gameover.png" type="Texture" id=1]
+[ext_resource path="res://Scriptes/ScriptMenu.gd" type="Script" id=2]
+[ext_resource path="res://Autres/PASTOROF.TTF" type="DynamicFontData" id=3]
+
+[sub_resource type="DynamicFont" id=1]
+size = 55
+font_data = ExtResource( 3 )
+
+[sub_resource type="DynamicFont" id=2]
+size = 64
+font_data = ExtResource( 3 )
+
+[sub_resource type="DynamicFont" id=3]
+size = 64
+font_data = ExtResource( 3 )
+
+[node name="Control" type="Control"]
+anchor_right = 0.733
+anchor_bottom = 0.993
+margin_right = 512.64
+margin_bottom = 7.55994
+rect_pivot_offset = Vector2( -1432, 192 )
+script = ExtResource( 2 )
+
+[node name="TextureRect" type="TextureRect" parent="."]
+anchor_right = 0.758
+anchor_bottom = 0.726
+margin_left = -8.0
+margin_top = 8.0
+margin_right = 328.64
+margin_bottom = 247.92
+texture = ExtResource( 1 )
+expand = true
+__meta__ = {
+"_edit_use_anchors_": true
+}
+
+[node name="Label" type="Label" parent="."]
+margin_left = 536.0
+margin_top = 680.0
+margin_right = 1120.0
+margin_bottom = 745.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 1 )
+text = "appuyer sur a pour recommencer !"
+
+[node name="Label2" type="Label" parent="."]
+margin_left = 536.0
+margin_top = 736.0
+margin_right = 1120.0
+margin_bottom = 801.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
+custom_fonts/font = SubResource( 1 )
+text = "appuyer sur b pour aller au menu !"
+
+[node name="Panel" type="Panel" parent="."]
+margin_left = -184.0
+margin_top = -16.0
+margin_right = 1736.0
+margin_bottom = 1072.0
+grow_horizontal = 0
+grow_vertical = 2
+
+[node name="Label" type="Label" parent="Panel"]
+margin_left = 432.0
+margin_top = 296.0
+margin_right = 1600.0
+margin_bottom = 1384.0
+custom_fonts/font = SubResource( 2 )
+text = "lors d'un lugubre soir de novembre 1997, gertrude fut lachement poussée dans l'eau des etangs de rosporden. aujourd'hui, elee revient hanter les miserables mortels reponsables de son lugubre deces. massacrez le plus d'inocents  que vous pouvez pour que gertrude repose enfin en paix !"
+autowrap = true
+
+[node name="Label4" type="Label" parent="Panel"]
+margin_left = 592.0
+margin_top = 736.0
+margin_right = 2254.0
+margin_bottom = 911.0
+custom_fonts/font = SubResource( 3 )
+text = "appuyer sur y pour revenir au menu"

@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/cri fantome.mp3-8607fe2aec053432547c4ac3b371b08d.mp3str"
+
+[deps]
+
+source_file="res://Autres/Sons/cri fantome.mp3"
+dest_files=[ "res://.import/cri fantome.mp3-8607fe2aec053432547c4ac3b371b08d.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

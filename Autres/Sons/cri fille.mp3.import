@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/cri fille.mp3-28ed88f0ba316ee7a1cf1bfd4b76d678.mp3str"
+
+[deps]
+
+source_file="res://Autres/Sons/cri fille.mp3"
+dest_files=[ "res://.import/cri fille.mp3-28ed88f0ba316ee7a1cf1bfd4b76d678.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

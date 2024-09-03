@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/cri connu.mp3-4f083d442bc7d8d44443ba9b637db112.mp3str"
+
+[deps]
+
+source_file="res://Autres/Sons/cri connu.mp3"
+dest_files=[ "res://.import/cri connu.mp3-4f083d442bc7d8d44443ba9b637db112.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

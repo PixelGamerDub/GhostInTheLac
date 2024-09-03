@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/siflet policier.mp3-dbe53d5b2aaf92c69c5829ed75a037d0.mp3str"
+
+[deps]
+
+source_file="res://Autres/Sons/siflet policier.mp3"
+dest_files=[ "res://.import/siflet policier.mp3-dbe53d5b2aaf92c69c5829ed75a037d0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

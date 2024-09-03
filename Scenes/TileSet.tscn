@@ -1,0 +1,20 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Sprites/BlocHerbe.png" type="Texture" id=1]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="TestMur" type="StaticBody2D" parent="."]
+position = Vector2( -72, 0 )
+collision_layer = 2
+__meta__ = {
+"_edit_group_": true
+}
+
+[node name="HitboxMur" type="CollisionPolygon2D" parent="TestMur"]
+polygon = PoolVector2Array( 328, 128, 392, 128, 392, 192, 328, 192 )
+
+[node name="SpriteMur" type="Sprite" parent="TestMur"]
+position = Vector2( 368, 152 )
+scale = Vector2( 7, 7 )
+texture = ExtResource( 1 )

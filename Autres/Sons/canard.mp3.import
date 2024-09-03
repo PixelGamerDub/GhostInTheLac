@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/canard.mp3-cf2d8eb42c939048d2adf7c10c17cfbb.mp3str"
+
+[deps]
+
+source_file="res://Autres/Sons/canard.mp3"
+dest_files=[ "res://.import/canard.mp3-cf2d8eb42c939048d2adf7c10c17cfbb.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

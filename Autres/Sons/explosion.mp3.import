@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/explosion.mp3-e3f5b82e33179b35a1a4142672d4213f.mp3str"
+
+[deps]
+
+source_file="res://Autres/Sons/explosion.mp3"
+dest_files=[ "res://.import/explosion.mp3-e3f5b82e33179b35a1a4142672d4213f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

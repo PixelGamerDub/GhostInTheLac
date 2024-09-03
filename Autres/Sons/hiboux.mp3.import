@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/hiboux.mp3-c08899a4905527529a12f1b880c5e458.mp3str"
+
+[deps]
+
+source_file="res://Autres/Sons/hiboux.mp3"
+dest_files=[ "res://.import/hiboux.mp3-c08899a4905527529a12f1b880c5e458.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

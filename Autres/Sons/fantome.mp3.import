@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/fantome.mp3-0d993e0f6361267fb7e9e69bf76f87f0.mp3str"
+
+[deps]
+
+source_file="res://Autres/Sons/fantome.mp3"
+dest_files=[ "res://.import/fantome.mp3-0d993e0f6361267fb7e9e69bf76f87f0.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
