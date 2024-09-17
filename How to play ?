@@ -11,6 +11,8 @@ Cops can't go on water but ducks can.
 
 In game Controls:
 
+GhosInTheLac was created in order to be play with game controller, keyboard is supported but some inputs might be useless 
+
 left stick up: go up
 left stick down: go down
 left stick left: go left
@@ -22,6 +24,7 @@ Menu Controls:
 a button : play/replay
 x button : game scenario
 y button : quit game scenario
+b button : return to thr home page
 start button : quit game
 
 
