@@ -1,0 +1,28 @@
+
+Goal of the game: 
+
+Level up the purple bar to the max in order to win !
+Each time you go on a civilian on boat, his boat will flow and you earn a kill !
+Each kill rewards you with 10% of the green bar.
+While the green bar is loaded at 100%, it reset to 0%, you are rewarded with 10% of the purple bar.
+Be carrefull ! The timer doesn't stop ! Each 30 seconds more cops or duck will try to catch you !
+If you have been hit three time it's the game over ! 
+Cops can't go on water but ducks can.
+
+In game Controls:
+
+left stick up: go up
+left stick down: go down
+left stick left: go left
+left stick right: go right
+start: quit the game
+
+Menu Controls:
+
+a button : play/replay
+x button : game scenario
+y button : quit game scenario
+start button : quit game
+
+
+Good luck !
